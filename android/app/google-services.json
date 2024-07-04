@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "342351052616",
+    "project_id": "edumatch-bcfb4",
+    "storage_bucket": "edumatch-bcfb4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342351052616:android:1e26f199ca0456624abd7d",
+        "android_client_info": {
+          "package_name": "com.example.edumatch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342351052616-03q7t6u0uhl0reb3rg2b0e45ad9ug3qc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_nlqzM-57JC3xtJsMi08-kGMbnHKtx_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342351052616-03q7t6u0uhl0reb3rg2b0e45ad9ug3qc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
